@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Recipedia/static/css/main.9c9801ae.css",
+    "main.js": "/Recipedia/static/js/main.8497dbf5.js",
+    "static/js/453.96453769.chunk.js": "/Recipedia/static/js/453.96453769.chunk.js",
+    "static/media/login.png": "/Recipedia/static/media/login.35ba6b77f935e757c959.png",
+    "static/media/Banner.png": "/Recipedia/static/media/Banner.87b10125a4e37e318b8b.png",
+    "static/media/transparent.png": "/Recipedia/static/media/transparent.abb88d3e32ab457c2af7.png",
+    "static/media/bootstrap-icons.woff?": "/Recipedia/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/Recipedia/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/logo.png": "/Recipedia/static/media/logo.e35641e78ec534dbfb15.png",
+    "static/media/api logo.png": "/Recipedia/static/media/api logo.4d58360abf7e132f928d.png",
+    "index.html": "/Recipedia/index.html",
+    "main.9c9801ae.css.map": "/Recipedia/static/css/main.9c9801ae.css.map",
+    "main.8497dbf5.js.map": "/Recipedia/static/js/main.8497dbf5.js.map",
+    "453.96453769.chunk.js.map": "/Recipedia/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c9801ae.css",
+    "static/js/main.8497dbf5.js"
+  ]
+}
